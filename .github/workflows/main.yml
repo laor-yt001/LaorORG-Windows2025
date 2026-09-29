@@ -11,7 +11,7 @@ jobs:
 
     # This keeps the current GitHub-hosted VM alive.
     # It does NOT make the GitHub VM permanent.
-    timeout-minutes: 350
+    timeout-minutes: 3600
 
     permissions:
       contents: read
